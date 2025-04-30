@@ -1,1 +1,2 @@
-This is user 007
+
+print("Hello From Bug1")
